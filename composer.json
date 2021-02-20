@@ -1,0 +1,20 @@
+{
+    "name": "sazzadhossian/todo-assignment-project",
+    "description": "An assignment project from weDeves",
+    "type": "project",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "sazzadhossian",
+            "email": "sazzadhossian007@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TodosProject\\": "includes/"
+        },
+        "files": []
+    }
+}
