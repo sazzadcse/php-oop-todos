@@ -1,7 +1,7 @@
-## Todo project with PHO OOP, jQuery & Ajax
+## Todo project with PHP OOP, JavaScript, jQuery & Ajax
 ## This is open source project for learing purpose.
 
-##### Instructions for configur project:
+# Instructions for configur project:
 
 You will get the sample SQL into the "DB" Folder. Import into your local database.
 
